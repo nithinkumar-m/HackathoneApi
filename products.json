@@ -1,0 +1,402 @@
+{
+    "products": [
+        {
+            "id": 6682565312612,
+            "title": "Man vs Wild Boots",
+            "body_html": "<p>Trekking Shoes</p>",
+            "vendor": "Discovery Pvt. Label",
+            "product_type": "Footwear",
+            "created_at": "2022-01-06T21:22:12+05:30",
+            "handle": "man-vs-wild-boots",
+            "updated_at": "2022-01-10T14:49:07+05:30",
+            "published_at": "2022-01-06T21:22:11+05:30",
+            "template_suffix": "",
+            "status": "active",
+            "published_scope": "web",
+            "tags": "mens boots trekking",
+            "admin_graphql_api_id": "gid://shopify/Product/6682565312612",
+            "variants": [
+                {
+                    "id": 39679125815396,
+                    "product_id": 6682565312612,
+                    "title": "Trekking Shoes",
+                    "price": "499.90",
+                    "sku": null,
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "57.99",
+                    "fulfillment_service": "discovery",
+                    "inventory_management": null,
+                    "option1": "Trekking Shoes",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2022-01-06T21:22:12+05:30",
+                    "updated_at": "2022-01-06T21:29:03+05:30",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 1250,
+                    "image_id": null,
+                    "weight": 1250.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 41773315784804,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/39679125815396"
+                }
+            ],
+            "options": [
+                {
+                    "id": 8569181208676,
+                    "product_id": 6682565312612,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Trekking Shoes"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 28750305493092,
+                    "product_id": 6682565312612,
+                    "position": 1,
+                    "created_at": "2022-01-06T21:22:12+05:30",
+                    "updated_at": "2022-01-06T21:22:12+05:30",
+                    "alt": null,
+                    "width": 1080,
+                    "height": 1440,
+                    "src": "https://cdn.shopify.com/s/files/1/0562/6223/0116/products/378b24b1-00f3-4bc5-92ad-762b366c34811605358101722MensHikingShoesWATERPROOFMidAnkleNH150-BlueBrown1.jpg?v=1641484332",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/28750305493092"
+                }
+            ],
+            "image": {
+                "id": 28750305493092,
+                "product_id": 6682565312612,
+                "position": 1,
+                "created_at": "2022-01-06T21:22:12+05:30",
+                "updated_at": "2022-01-06T21:22:12+05:30",
+                "alt": null,
+                "width": 1080,
+                "height": 1440,
+                "src": "https://cdn.shopify.com/s/files/1/0562/6223/0116/products/378b24b1-00f3-4bc5-92ad-762b366c34811605358101722MensHikingShoesWATERPROOFMidAnkleNH150-BlueBrown1.jpg?v=1641484332",
+                "variant_ids": [],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/28750305493092"
+            }
+        },
+        {
+            "id": 6682565378148,
+            "title": "Man vs Wild Climbing Rope",
+            "body_html": "",
+            "vendor": "Discovery Pvt. Label",
+            "product_type": "Ropes",
+            "created_at": "2022-01-06T21:22:17+05:30",
+            "handle": "man-vs-wild-rope",
+            "updated_at": "2022-01-10T14:49:08+05:30",
+            "published_at": "2022-01-06T21:22:16+05:30",
+            "template_suffix": "",
+            "status": "active",
+            "published_scope": "web",
+            "tags": "rope",
+            "admin_graphql_api_id": "gid://shopify/Product/6682565378148",
+            "variants": [
+                {
+                    "id": 39679125880932,
+                    "product_id": 6682565378148,
+                    "title": "Rope",
+                    "price": "17.99",
+                    "sku": null,
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "22.99",
+                    "fulfillment_service": "discovery",
+                    "inventory_management": null,
+                    "option1": "Rope",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2022-01-06T21:22:17+05:30",
+                    "updated_at": "2022-01-06T21:22:17+05:30",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 100,
+                    "image_id": null,
+                    "weight": 100.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 41773315850340,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/39679125880932"
+                }
+            ],
+            "options": [
+                {
+                    "id": 8569181274212,
+                    "product_id": 6682565378148,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Rope"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 28750305558628,
+                    "product_id": 6682565378148,
+                    "position": 1,
+                    "created_at": "2022-01-06T21:22:17+05:30",
+                    "updated_at": "2022-01-06T21:22:17+05:30",
+                    "alt": null,
+                    "width": 500,
+                    "height": 333,
+                    "src": "https://cdn.shopify.com/s/files/1/0562/6223/0116/products/51SdVdPsrmL.jpg?v=1641484337",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/28750305558628"
+                }
+            ],
+            "image": {
+                "id": 28750305558628,
+                "product_id": 6682565378148,
+                "position": 1,
+                "created_at": "2022-01-06T21:22:17+05:30",
+                "updated_at": "2022-01-06T21:22:17+05:30",
+                "alt": null,
+                "width": 500,
+                "height": 333,
+                "src": "https://cdn.shopify.com/s/files/1/0562/6223/0116/products/51SdVdPsrmL.jpg?v=1641484337",
+                "variant_ids": [],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/28750305558628"
+            }
+        },
+        {
+            "id": 6682565345380,
+            "title": "Man vs Wild Multi Utility Knife",
+            "body_html": "",
+            "vendor": "Discovery Pvt. Label",
+            "product_type": "Toolkit",
+            "created_at": "2022-01-06T21:22:15+05:30",
+            "handle": "man-vs-wild-knife",
+            "updated_at": "2022-01-10T14:49:07+05:30",
+            "published_at": "2022-01-06T21:22:13+05:30",
+            "template_suffix": null,
+            "status": "active",
+            "published_scope": "web",
+            "tags": "pocket kit",
+            "admin_graphql_api_id": "gid://shopify/Product/6682565345380",
+            "variants": [
+                {
+                    "id": 39679125848164,
+                    "product_id": 6682565345380,
+                    "title": "Pocket Toolkit",
+                    "price": "17.99",
+                    "sku": null,
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "22.99",
+                    "fulfillment_service": "discovery",
+                    "inventory_management": null,
+                    "option1": "Pocket Toolkit",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2022-01-06T21:22:15+05:30",
+                    "updated_at": "2022-01-06T21:22:15+05:30",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 275,
+                    "image_id": null,
+                    "weight": 275.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 41773315817572,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/39679125848164"
+                }
+            ],
+            "options": [
+                {
+                    "id": 8569181241444,
+                    "product_id": 6682565345380,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Pocket Toolkit"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 28750305525860,
+                    "product_id": 6682565345380,
+                    "position": 1,
+                    "created_at": "2022-01-06T21:22:15+05:30",
+                    "updated_at": "2022-01-06T21:22:15+05:30",
+                    "alt": null,
+                    "width": 1500,
+                    "height": 1500,
+                    "src": "https://cdn.shopify.com/s/files/1/0562/6223/0116/products/71S9mBbcNvL._SL1500.jpg?v=1641484335",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/28750305525860"
+                }
+            ],
+            "image": {
+                "id": 28750305525860,
+                "product_id": 6682565345380,
+                "position": 1,
+                "created_at": "2022-01-06T21:22:15+05:30",
+                "updated_at": "2022-01-06T21:22:15+05:30",
+                "alt": null,
+                "width": 1500,
+                "height": 1500,
+                "src": "https://cdn.shopify.com/s/files/1/0562/6223/0116/products/71S9mBbcNvL._SL1500.jpg?v=1641484335",
+                "variant_ids": [],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/28750305525860"
+            }
+        },
+        {
+            "id": 6682565279844,
+            "title": "Say Yes..India Maharaja Jacket",
+            "body_html": "",
+            "vendor": "Discovery Pvt. Label",
+            "product_type": "Jackets",
+            "created_at": "2022-01-06T21:22:10+05:30",
+            "handle": "say-yes-jacket",
+            "updated_at": "2022-01-10T14:49:07+05:30",
+            "published_at": "2022-01-06T21:22:09+05:30",
+            "template_suffix": null,
+            "status": "active",
+            "published_scope": "web",
+            "tags": "mens jacket",
+            "admin_graphql_api_id": "gid://shopify/Product/6682565279844",
+            "variants": [
+                {
+                    "id": 39679125717092,
+                    "product_id": 6682565279844,
+                    "title": "Lithograph - Height: 9\" x Width: 12\"",
+                    "price": "25.00",
+                    "sku": null,
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "fulfillment_service": "discovery",
+                    "inventory_management": null,
+                    "option1": "Lithograph - Height: 9\" x Width: 12\"",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2022-01-06T21:22:10+05:30",
+                    "updated_at": "2022-01-06T21:22:10+05:30",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 3629,
+                    "image_id": null,
+                    "weight": 3629.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 41773315686500,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/39679125717092"
+                },
+                {
+                    "id": 39679125749860,
+                    "product_id": 6682565279844,
+                    "title": "Small",
+                    "price": "19.99",
+                    "sku": "example-shirt-s",
+                    "position": 2,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "24.99",
+                    "fulfillment_service": "discovery",
+                    "inventory_management": null,
+                    "option1": "Small",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2022-01-06T21:22:10+05:30",
+                    "updated_at": "2022-01-06T21:22:10+05:30",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 200,
+                    "image_id": null,
+                    "weight": 200.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 41773315719268,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/39679125749860"
+                },
+                {
+                    "id": 39679125782628,
+                    "product_id": 6682565279844,
+                    "title": "Medium",
+                    "price": "19.99",
+                    "sku": "example-shirt-m",
+                    "position": 3,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "24.99",
+                    "fulfillment_service": "discovery",
+                    "inventory_management": null,
+                    "option1": "Medium",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2022-01-06T21:22:10+05:30",
+                    "updated_at": "2022-01-06T21:22:10+05:30",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 200,
+                    "image_id": null,
+                    "weight": 200.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 41773315752036,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/39679125782628"
+                }
+            ],
+            "options": [
+                {
+                    "id": 8569181175908,
+                    "product_id": 6682565279844,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Lithograph - Height: 9\" x Width: 12\"",
+                        "Small",
+                        "Medium"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 28750305460324,
+                    "product_id": 6682565279844,
+                    "position": 1,
+                    "created_at": "2022-01-06T21:22:10+05:30",
+                    "updated_at": "2022-01-06T21:22:10+05:30",
+                    "alt": null,
+                    "width": 1080,
+                    "height": 1440,
+                    "src": "https://cdn.shopify.com/s/files/1/0562/6223/0116/products/5e3d6b0e-c4e3-461f-b8ec-3127c50673531639630058954-LOCOMOTIVE-Men-Olive-Green-Solid-Tailored-Jacket-64716396300-1.jpg?v=1641484330",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/28750305460324"
+                }
+            ],
+            "image": {
+                "id": 28750305460324,
+                "product_id": 6682565279844,
+                "position": 1,
+                "created_at": "2022-01-06T21:22:10+05:30",
+                "updated_at": "2022-01-06T21:22:10+05:30",
+                "alt": null,
+                "width": 1080,
+                "height": 1440,
+                "src": "https://cdn.shopify.com/s/files/1/0562/6223/0116/products/5e3d6b0e-c4e3-461f-b8ec-3127c50673531639630058954-LOCOMOTIVE-Men-Olive-Green-Solid-Tailored-Jacket-64716396300-1.jpg?v=1641484330",
+                "variant_ids": [],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/28750305460324"
+            }
+        }
+    ]
+}
